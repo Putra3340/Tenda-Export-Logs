@@ -1,0 +1,7 @@
+# Tenda-Utils
+A Program that can manage your tenda router <br>
+Tested on F609 model<br>
+if you tried on another model and it works..dm Me Pls<br>
+
+15/07/2023 - Create Tenda-Export-Logs
+17/07/2023 - Rename to Tenda-utils
